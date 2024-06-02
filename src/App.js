@@ -5,6 +5,13 @@ function App() {
   return (
     <div className="App">
       <h1>Nidaul MUA</h1>
+    <nav>
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </nav>
     </div>
   );
 }
